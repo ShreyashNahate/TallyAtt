@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <style name="CustomSpinnerDropdown" parent="Theme.MaterialComponents.DayNight">-->
+<!--        <item name="android:background">@android:color/white</item>-->
+<!--        <item name="android:textColor">@android:color/black</item>-->
+<!--        <item name="android:padding">@dimen/padding_spinner_dropdown</item>  &lt;!&ndash; Apply padding here &ndash;&gt; -->
+<!--        <item name="android:popupBackground">@android:color/transparent</item>-->
+<!--        <item name="android:textSize">16sp</item>-->
+<!--    </style>-->
+    <style name="CustomSpinnerDropdown" parent="Theme.MaterialComponents.Light">
+        <item name="android:popupBackground">@android:color/transparent</item>
+    </style>
+
+</resources>

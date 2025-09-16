@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TallyATT</string>
+    <string name="default_web_client_id">
+155442581813-ho9ccvvdggbm0m87753vnvbaq489egoo.apps.googleusercontent.com</string>
+
+    <string-array name="class_type">
+        <item>Lecture</item>
+        <item>Lab</item>
+    </string-array>
+
+    <string-array name="lecture_subjects">
+        <item>Processor Architecture</item>
+        <item>Mathematics 3</item>
+        <item>Database Management System</item>
+        <item>Computer Graphics</item>
+        <item>Software Engineering</item>
+    </string-array>
+
+    <string-array name="lab_subjects">
+        <item>DBMS Lab</item>
+        <item>CG Lab</item>
+        <item>PA Lab</item>
+        <item>M3 Tutorial</item>
+    </string-array>
+</resources>
